@@ -1,0 +1,22 @@
+.GetNotes{
+  width: 40vw;
+  height: 80vh;
+  border: 2px solid white;
+  box-shadow: 10px 10px grey;
+  z-index: 40px;
+
+}
+.WriteNote input{
+  width: 40vw;
+  height: 80vh;
+  border: 2px solid white;
+ text-align: start;
+
+}
+.main{
+  display: flex;
+  justify-content: space-around;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+}
